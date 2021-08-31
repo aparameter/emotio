@@ -2,11 +2,12 @@ body {
     margin: 0;
     background: pink;
     text-align: center;
-}
-#banner{
+    
+#banner {
     background: url(images/IMG-20210703-WA0007.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
+}
 }
     
